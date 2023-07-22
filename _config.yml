@@ -1,2 +1,5 @@
 theme: jekyll-theme-tactiletheme: jekyll-theme-tactile
 minimal_mistakes_skin: "dirt"
+title: "My Personal Site"
+title_separator: "_"
+discription: "this is my greatest work"
